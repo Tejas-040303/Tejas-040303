@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tejas-040303
-- 👀 I’m interested in Python,Java,Webdelepment,Sql and Php
-- 🌱 I’m currently learning Python,Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, Java, and Webdelepment
+- 🌱 I’m currently learning DSA, Webdev repeat, DSA question
+- 💞️ I’m looking to collaborate on Webdev projects
 - 📫 How to reach me 6261799352
 
 <!---
