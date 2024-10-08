@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tejas-040303
 - 👀 I’m well-versed in Web development(MERN).
 - 🌱 Learning Python and DSA(Java).
-- 💞️ Interested in collaborating on different Web-base projects.
+- 💞️ Looking for collaboration on different Web-base projects.
 -  I am also looking for an internship.
 - 📫 reach me at 6261799352 or tej.pawar04@gmail.com.
 - https://www.linkedin.com/in/tejas-pawar-b63054253/
