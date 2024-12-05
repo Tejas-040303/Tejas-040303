@@ -13,7 +13,6 @@ I am a passionate **Web Developer** skilled in **MERN Stack Development** and co
 
 ---
 
-### 💻 Technical Skills
 ### 💻 Technical Skills  
 
 | **Languages**       | **Front-End**      | **Back-End**       | **Databases**       | **Tools & Platforms**                              |
@@ -23,6 +22,19 @@ I am a passionate **Web Developer** skilled in **MERN Stack Development** and co
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |   |   |   | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |   |   |   | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) |   |   |   |   |
+
+---
+
+### 🌟 Soft Skills  
+
+| **Category**        | **Icon**                                                                                                     |
+|----------------------|------------------------------------------------------------------------------------------------------------|
+| **Communication**    | ![Communication](https://img.shields.io/badge/Communication-%23F39C12?style=for-the-badge&logo=webauthn&logoColor=white) |
+| **Teamwork**         | ![Teamwork](https://img.shields.io/badge/Teamwork-%2342A5F5?style=for-the-badge&logo=handshake&logoColor=white)         |
+| **Problem-Solving**  | ![Problem-Solving](https://img.shields.io/badge/Problem%20Solving-%238E44AD?style=for-the-badge&logo=labstack&logoColor=white) |
+| **Leadership**       | ![Leadership](https://img.shields.io/badge/Leadership-%23E67E22?style=for-the-badge&logo=leaderboard&logoColor=white)    |
+| **Time Management**  | ![Time Management](https://img.shields.io/badge/Time%20Management-%231ABC9C?style=for-the-badge&logo=hourglass&logoColor=white) |
+| **Adaptability**     | ![Adaptability](https://img.shields.io/badge/Adaptability-%239B59B6?style=for-the-badge&logo=flow&logoColor=white)        |
 
 ---
 
