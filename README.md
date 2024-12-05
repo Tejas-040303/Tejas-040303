@@ -27,14 +27,14 @@ I am a passionate **Web Developer** skilled in **MERN Stack Development** and co
 
 ### 🌟 Soft Skills  
 
-| **Category**        | **Icon**                                                                                  |
-|----------------------|-------------------------------------------------------------------------------------------|
-| **Communication**    | ![Communication](https://cdn-icons-png.flaticon.com/512/2847/2847245.png)                 |
-| **Teamwork**         | ![Teamwork](https://cdn-icons-png.flaticon.com/512/3062/3062634.png)                      |
-| **Problem-Solving**  | ![Problem-Solving](https://cdn-icons-png.flaticon.com/512/4233/4233225.png)               |
-| **Leadership**       | ![Leadership](https://cdn-icons-png.flaticon.com/512/3135/3135715.png)                    |
-| **Time Management**  | ![Time Management](https://cdn-icons-png.flaticon.com/512/1695/1695210.png)               |
-| **Adaptability**     | ![Adaptability](https://cdn-icons-png.flaticon.com/512/3135/3135778.png)                  |
+| **Category**                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------------------------|
+| **Communication**     ![Communication](https://img.shields.io/badge/Communication-%23F39C12?style=for-the-badge&logo=webauthn&logoColor=white) |
+| **Teamwork**          ![Teamwork](https://img.shields.io/badge/Teamwork-%2342A5F5?style=for-the-badge&logo=handshake&logoColor=white)         |
+| **Problem-Solving**  ![Problem-Solving](https://img.shields.io/badge/Problem%20Solving-%238E44AD?style=for-the-badge&logo=labstack&logoColor=white) |
+| **Leadership**      ![Leadership](https://img.shields.io/badge/Leadership-%23E67E22?style=for-the-badge&logo=leaderboard&logoColor=white)    |
+| **Time Management**   ![Time Management](https://img.shields.io/badge/Time%20Management-%231ABC9C?style=for-the-badge&logo=hourglass&logoColor=white) |
+| **Adaptability**     ![Adaptability](https://img.shields.io/badge/Adaptability-%239B59B6?style=for-the-badge&logo=flow&logoColor=white)        |
 
 ---
 
