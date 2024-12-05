@@ -46,6 +46,7 @@ I am a passionate **Web Developer** skilled in **MERN Stack Development** and co
 - 📧 **Email**: [tej.pawar04@gmail.com](mailto:tej.pawar04@gmail.com)  
 - 📞 **Phone**: +91 6261799352  
 - 💼 **LinkedIn**: [Tejas Pawar](https://www.linkedin.com/in/tejas-pawar-b63054253/)  
+- 🌐 **Portfolio**: [Tejas Pawar Portfolio](https://portfolio-tejas-bd3b5.web.app/)
 
 ---
 
