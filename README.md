@@ -5,8 +5,8 @@ I am a passionate **Web Developer** skilled in **MERN Stack Development** and co
 ---
 
 ### 🌟 About Me
-- 🔥 **Web Development Enthusiast**: Experienced in crafting responsive and dynamic web applications using the **MERN stack**.
-- 📖 **Currently Learning**: Advancing my skills in **Python** and **Java**.
+- 🔥 **Web Development Enthusiast**: Experienced in crafting responsive and dynamic web applications using the **MERN stack**,**Python**
+- 📖 **Currently Learning**: Advancing my skills in **AIML**, **GeneAI**, **LLMs**, **RAGs**, and **Java**.
 - 🤝 **Collaboration Goals**: Eager to contribute to innovative **web-based projects** and gain hands-on experience.
 - 🎯 **Career Aspirations**: Actively seeking internship opportunities to enhance my learning and grow in a professional environment.
 - 🌱 **Future Goals**: Stay updated with the latest technologies and deepen my expertise in full-stack development.
