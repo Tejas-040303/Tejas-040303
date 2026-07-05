@@ -1,19 +1,19 @@
-<!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
+<!-- ═══════════════════════ SYNTHWAVE HERO ═══════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Tejas%20Pawar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20MERN%20Stack%20%7C%20IAM%20(SailPoint)&descSize=20&descAlignY=58" width="100%" alt="header banner"/>
-</div>
-
-<!-- ═══════════════════════ TYPING ANIMATION ═══════════════════════ -->
-<div align="center">
-  <a href="https://github.com/Tejas-040303">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Tejas!+%F0%9F%91%8B;MERN+Stack+Web+Developer+%F0%9F%9A%80;IAM+Professional+%7C+SailPoint+%F0%9F%94%90;Daily+DSA+Grinder+%7C+Java+%26+Python+%F0%9F%92%AA;Always+Building.+Always+Learning.+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+  <img src="./assets/hero.svg" width="100%" alt="Tejas Pawar — Web Developer · MERN Stack · IAM (SailPoint)"/>
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Tejas-040303&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS" alt="profile views"/>
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20IAM-00C9FF?style=for-the-badge" alt="focus"/>
   <img src="https://img.shields.io/badge/Based%20in-Pune%2C%20India-8E2DE2?style=for-the-badge" alt="location"/>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════ LIVE TERMINAL ═══════════════════════ -->
+<div align="center">
+  <img src="./assets/terminal.svg" width="90%" alt="Terminal typing out whoami and today's log"/>
 </div>
 
 <br/>
@@ -33,46 +33,24 @@
 
 <br clear="right"/>
 
-<!-- ═══════════════════════ DAILY ROUTINE ═══════════════════════ -->
-## ⚡ Daily Routine & Current Progress
-
-<table>
-  <tr>
-    <td align="center" width="25%">🏢<br/><b>Office Work</b><br/><sub>SailPoint — identity governance, access certifications & IAM operations</sub></td>
-    <td align="center" width="25%">💻<br/><b>Daily Practice</b><br/><sub>DSA problem-solving in Java & Python to stay sharp</sub></td>
-    <td align="center" width="25%">🌐<br/><b>Side Learning</b><br/><sub>MERN stack projects — building & iterating constantly</sub></td>
-    <td align="center" width="25%">📈<br/><b>Consistency</b><br/><sub>Daily check-ins on learning goals — steady progress every day</sub></td>
-  </tr>
-</table>
-
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<!-- ═══════════════════════ SKILL MATRIX ═══════════════════════ -->
 ## 🛠️ Tech Arsenal
 
-### 👨‍💻 Languages & Core
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" alt="languages"/>
+  <img src="./assets/skills.svg" width="95%" alt="Animated skill matrix with proficiency bars"/>
 </div>
 
-### 🎨 Front-End
+<br/>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap&theme=dark" alt="frontend"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,postman&theme=dark&perline=8" alt="tech stack icons"/>
 </div>
 
-### ⚙️ Back-End & Databases
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="backend"/>
-</div>
-
-### 🔐 IAM & Security
-<div align="center">
+  <br/>
   <img src="https://img.shields.io/badge/SailPoint-0033A0?style=for-the-badge&logo=okta&logoColor=white" alt="SailPoint"/>
   <img src="https://img.shields.io/badge/SailPoint%20IdentityIQ-16A085?style=for-the-badge&logo=springsecurity&logoColor=white" alt="IdentityIQ"/>
   <img src="https://img.shields.io/badge/Identity%20%26%20Access%20Management-2C3E50?style=for-the-badge&logo=auth0&logoColor=white" alt="IAM"/>
-</div>
-
-### 🧰 Tools & Platforms
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="tools"/>
 </div>
 
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
@@ -99,12 +77,12 @@
 ## 🧊 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution graph (generates via GitHub Action after first run)"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution graph"/>
 </div>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tejas-040303/Tejas-040303/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake animation (generates via GitHub Action after first run)"/>
+  <img src="https://raw.githubusercontent.com/Tejas-040303/Tejas-040303/output/github-contribution-grid-snake-dark.svg" width="95%" alt="snake animation"/>
 </div>
 
 <!-- ═══════════════════════ CONNECT ═══════════════════════ -->

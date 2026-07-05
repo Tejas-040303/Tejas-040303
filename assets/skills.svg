@@ -1,0 +1,146 @@
+<svg width="960" height="440" viewBox="0 0 960 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated skill matrix">
+  <defs>
+    <linearGradient id="barg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff"/>
+      <stop offset="1" stop-color="#ff2fd6"/>
+    </linearGradient>
+    <linearGradient id="ttl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff"/>
+      <stop offset="0.5" stop-color="#ff2fd6"/>
+      <stop offset="1" stop-color="#00e5ff"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#fff" stop-opacity="0.07"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="bglow" x="-40%" y="-150%" width="180%" height="400%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="card"><rect width="960" height="440" rx="16"/></clipPath>
+    <style>
+      .lbl { font-family: Verdana, 'DejaVu Sans', Arial, sans-serif; font-size: 15px; fill: #c0caf5; }
+      .pct { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 13px; fill: #7dcfff; opacity: 0; }
+      .chip-t { font-family: Verdana, 'DejaVu Sans', Arial, sans-serif; font-size: 13px; fill: #a9b1d6; }
+      .chip { opacity: 0; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="958" height="438" rx="16" fill="#0d1117" stroke="#22273a" stroke-width="2"/>
+
+  <text x="480" y="52" text-anchor="middle" font-family="Verdana, 'DejaVu Sans', Arial, sans-serif" font-size="26" font-weight="bold" letter-spacing="6" fill="url(#ttl)">&lt; SKILL MATRIX /&gt;</text>
+  <text x="480" y="76" text-anchor="middle" font-family="Verdana, 'DejaVu Sans', Arial, sans-serif" font-size="12" letter-spacing="2" fill="#565f89">ALWAYS LEVELING UP</text>
+
+  <!-- left column -->
+  <g>
+    <text class="lbl" x="48" y="115">JavaScript</text>
+    <rect x="185" y="104" width="270" height="12" rx="6" fill="#1b1e2e"/>
+    <rect x="185" y="104" width="0" height="12" rx="6" fill="url(#barg)" filter="url(#bglow)">
+      <animate attributeName="width" from="0" to="230" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <text class="pct" x="464" y="115">85%<animate attributeName="opacity" to="1" dur="0.3s" begin="1.3s" fill="freeze"/></text>
+
+    <text class="lbl" x="48" y="167">React</text>
+    <rect x="185" y="156" width="270" height="12" rx="6" fill="#1b1e2e"/>
+    <rect x="185" y="156" width="0" height="12" rx="6" fill="url(#barg)" filter="url(#bglow)">
+      <animate attributeName="width" from="0" to="216" dur="1.2s" begin="0.35s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <text class="pct" x="464" y="167">80%<animate attributeName="opacity" to="1" dur="0.3s" begin="1.45s" fill="freeze"/></text>
+
+    <text class="lbl" x="48" y="219">Node / Express</text>
+    <rect x="185" y="208" width="270" height="12" rx="6" fill="#1b1e2e"/>
+    <rect x="185" y="208" width="0" height="12" rx="6" fill="url(#barg)" filter="url(#bglow)">
+      <animate attributeName="width" from="0" to="210" dur="1.2s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <text class="pct" x="464" y="219">78%<animate attributeName="opacity" to="1" dur="0.3s" begin="1.6s" fill="freeze"/></text>
+
+    <text class="lbl" x="48" y="271">MongoDB</text>
+    <rect x="185" y="260" width="270" height="12" rx="6" fill="#1b1e2e"/>
+    <rect x="185" y="260" width="0" height="12" rx="6" fill="url(#barg)" filter="url(#bglow)">
+      <animate attributeName="width" from="0" to="202" dur="1.2s" begin="0.65s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <text class="pct" x="464" y="271">75%<animate attributeName="opacity" to="1" dur="0.3s" begin="1.75s" fill="freeze"/></text>
+
+    <text class="lbl" x="48" y="323">HTML / CSS</text>
+    <rect x="185" y="312" width="270" height="12" rx="6" fill="#1b1e2e"/>
+    <rect x="185" y="312" width="0" height="12" rx="6" fill="url(#barg)" filter="url(#bglow)">
+      <animate attributeName="width" from="0" to="243" dur="1.2s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <text class="pct" x="464" y="323">90%<animate attributeName="opacity" to="1" dur="0.3s" begin="1.9s" fill="freeze"/></text>
+  </g>
+
+  <!-- right column -->
+  <g>
+    <text class="lbl" x="520" y="115">Python</text>
+    <rect x="660" y="104" width="240" height="12" rx="6" fill="#1b1e2e"/>
+    <rect x="660" y="104" width="0" height="12" rx="6" fill="url(#barg)" filter="url(#bglow)">
+      <animate attributeName="width" from="0" to="192" dur="1.2s" begin="0.28s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <text class="pct" x="908" y="115">80%<animate attributeName="opacity" to="1" dur="0.3s" begin="1.38s" fill="freeze"/></text>
+
+    <text class="lbl" x="520" y="167">Java</text>
+    <rect x="660" y="156" width="240" height="12" rx="6" fill="#1b1e2e"/>
+    <rect x="660" y="156" width="0" height="12" rx="6" fill="url(#barg)" filter="url(#bglow)">
+      <animate attributeName="width" from="0" to="180" dur="1.2s" begin="0.43s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <text class="pct" x="908" y="167">75%<animate attributeName="opacity" to="1" dur="0.3s" begin="1.53s" fill="freeze"/></text>
+
+    <text class="lbl" x="520" y="219">MySQL</text>
+    <rect x="660" y="208" width="240" height="12" rx="6" fill="#1b1e2e"/>
+    <rect x="660" y="208" width="0" height="12" rx="6" fill="url(#barg)" filter="url(#bglow)">
+      <animate attributeName="width" from="0" to="168" dur="1.2s" begin="0.58s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <text class="pct" x="908" y="219">70%<animate attributeName="opacity" to="1" dur="0.3s" begin="1.68s" fill="freeze"/></text>
+
+    <text class="lbl" x="520" y="271">SailPoint IIQ</text>
+    <rect x="660" y="260" width="240" height="12" rx="6" fill="#1b1e2e"/>
+    <rect x="660" y="260" width="0" height="12" rx="6" fill="url(#barg)" filter="url(#bglow)">
+      <animate attributeName="width" from="0" to="173" dur="1.2s" begin="0.73s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <text class="pct" x="908" y="271">72%<animate attributeName="opacity" to="1" dur="0.3s" begin="1.83s" fill="freeze"/></text>
+
+    <text class="lbl" x="520" y="323">Git / GitHub</text>
+    <rect x="660" y="312" width="240" height="12" rx="6" fill="#1b1e2e"/>
+    <rect x="660" y="312" width="0" height="12" rx="6" fill="url(#barg)" filter="url(#bglow)">
+      <animate attributeName="width" from="0" to="204" dur="1.2s" begin="0.88s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+    </rect>
+    <text class="pct" x="908" y="323">85%<animate attributeName="opacity" to="1" dur="0.3s" begin="1.98s" fill="freeze"/></text>
+  </g>
+
+  <!-- chips -->
+  <g>
+    <g class="chip"><animate attributeName="opacity" to="1" dur="0.4s" begin="2.1s" fill="freeze"/>
+      <rect x="154" y="372" width="90" height="30" rx="15" fill="#161b2e" stroke="#2a3152"/>
+      <text class="chip-t" x="199" y="392" text-anchor="middle">REST APIs</text>
+    </g>
+    <g class="chip"><animate attributeName="opacity" to="1" dur="0.4s" begin="2.25s" fill="freeze"/>
+      <rect x="258" y="372" width="90" height="30" rx="15" fill="#161b2e" stroke="#2a3152"/>
+      <text class="chip-t" x="303" y="392" text-anchor="middle">Bootstrap</text>
+    </g>
+    <g class="chip"><animate attributeName="opacity" to="1" dur="0.4s" begin="2.4s" fill="freeze"/>
+      <rect x="362" y="372" width="76" height="30" rx="15" fill="#161b2e" stroke="#2a3152"/>
+      <text class="chip-t" x="400" y="392" text-anchor="middle">Postman</text>
+    </g>
+    <g class="chip"><animate attributeName="opacity" to="1" dur="0.4s" begin="2.55s" fill="freeze"/>
+      <rect x="452" y="372" width="76" height="30" rx="15" fill="#161b2e" stroke="#2a3152"/>
+      <text class="chip-t" x="490" y="392" text-anchor="middle">VS Code</text>
+    </g>
+    <g class="chip"><animate attributeName="opacity" to="1" dur="0.4s" begin="2.7s" fill="freeze"/>
+      <rect x="542" y="372" width="118" height="30" rx="15" fill="#161b2e" stroke="#2a3152"/>
+      <text class="chip-t" x="601" y="392" text-anchor="middle">Responsive UI</text>
+    </g>
+    <g class="chip"><animate attributeName="opacity" to="1" dur="0.4s" begin="2.85s" fill="freeze"/>
+      <rect x="674" y="372" width="132" height="30" rx="15" fill="#161b2e" stroke="#2a3152"/>
+      <text class="chip-t" x="740" y="392" text-anchor="middle">Problem Solving</text>
+    </g>
+  </g>
+
+  <!-- shine sweep -->
+  <g clip-path="url(#card)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="-200 0" to="1160 0" dur="5.5s" repeatCount="indefinite"/>
+      <rect x="0" y="-40" width="120" height="520" fill="url(#shine)" transform="skewX(-18)"/>
+    </g>
+  </g>
+</svg>
