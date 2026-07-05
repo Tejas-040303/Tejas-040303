@@ -1,6 +1,6 @@
-<!-- ═══════════════════════ SYNTHWAVE HERO ═══════════════════════ -->
+<!-- ═══════════════════════ 3D HERO ═══════════════════════ -->
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Tejas Pawar — Web Developer · MERN Stack · IAM (SailPoint)"/>
+  <img src="./assets/hero.svg" width="100%" alt="Tejas Pawar — 3D banner with warp starfield and rotating icosahedra"/>
 </div>
 
 <div align="center">
@@ -11,9 +11,9 @@
 
 <br/>
 
-<!-- ═══════════════════════ LIVE TERMINAL ═══════════════════════ -->
+<!-- ═══════════════════════ 4D TESSERACT ═══════════════════════ -->
 <div align="center">
-  <img src="./assets/terminal.svg" width="90%" alt="Terminal typing out whoami and today's log"/>
+  <img src="./assets/tesseract.svg" width="90%" alt="A real 4D hypercube (tesseract) double-rotating through the 4th dimension, projected 4D to 3D to 2D"/>
 </div>
 
 <br/>
@@ -37,7 +37,7 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="./assets/skills.svg" width="95%" alt="Animated skill matrix with proficiency bars"/>
+  <img src="./assets/skill-galaxy.svg" width="95%" alt="Skill galaxy — technologies orbiting in 3D with depth scaling"/>
 </div>
 
 <br/>
