@@ -1,112 +1,231 @@
-<!-- ════════════════════════ HEADER ════════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:5B42F3,100:8E2DE2&height=210&section=header&text=Tejas%20Pawar&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20(MERN)%20%C2%B7%20IAM%20Professional%20(SailPoint)&descSize=18&descAlignY=58" width="100%" alt="Tejas Pawar"/>
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                         HEADER BANNER                         --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tejas%20Pawar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20(MERN)%20%C2%B7%20IAM%20Professional%20(SailPoint)&descSize=18&descAlignY=55" alt="Tejas Pawar Banner" /&gt;
+&lt;/p&gt;
 
-  <a href="https://github.com/Tejas-040303">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=5B42F3&center=true&vCenter=true&width=620&lines=Building+for+the+web+with+the+MERN+stack;Securing+identities+with+SailPoint+IAM;Daily+DSA+practice+in+Java+%26+Python;Consistency+%3E+Intensity" alt="typing intro"/>
-  </a>
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                      TYPING ANIMATION                         --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(MERN);IAM+Professional+(SailPoint);Building+secure+products+every+day" alt="Typing SVG" /&gt;
+&lt;/p&gt;
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Tejas-040303&style=for-the-badge&color=5B42F3&label=PROFILE+VIEWS" alt="profile views"/>
-    <img src="https://img.shields.io/badge/Open%20to-Collaboration-00C9FF?style=for-the-badge" alt="open to collaboration"/>
-    <img src="https://img.shields.io/badge/Pune-India-8E2DE2?style=for-the-badge" alt="Pune, India"/>
-  </p>
-</div>
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                        QUICK BADGES                           --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://komarev.com/ghpvc/?username=Tejas-040303&color=7B61FF&style=for-the-badge" alt="Profile Views" /&gt;
+  &lt;img src="https://img.shields.io/badge/Open%20to-Collaboration-7B61FF?style=for-the-badge" /&gt;
+  &lt;img src="https://img.shields.io/badge/Pune-India-FF6B6B?style=for-the-badge" /&gt;
+&lt;/p&gt;
 
-## 🙋‍♂️ About Me
+&lt;br&gt;
 
-I'm a **full-stack web developer (MERN)** who now works in **enterprise Identity & Access Management with SailPoint** — a mix that keeps me building products *and* securing the identities behind them.
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                         ABOUT ME                              --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+## 👋 About Me
+
+&gt; **I build full-stack apps and secure the identities behind them.**
+
+MERN developer turned IAM professional. I spend my days in **SailPoint IdentityIQ** managing enterprise access governance, and my nights iterating on side projects — one commit at a time.
 
 - 💼 **Today:** IAM professional working hands-on with **SailPoint IdentityIQ** — identity governance, access certifications, day-to-day IAM operations
-- 🌱 **Learning:** going deeper into **IdentityIQ** and enterprise IAM architecture
+- 🌱 **Learning:** Going deeper into IdentityIQ and enterprise IAM architecture
 - 🛠️ **Building:** MERN-stack side projects, iterated a little every day
-- 🧠 **Practicing:** daily **DSA** in **Java & Python**
+- 🧠 **Practicing:** Daily DSA in Java & Python
 - 🎓 **Education:** BE in Computer Science — DYPCOE Akurdi, Pune
 - ⚡ **Off-keyboard:** Badminton, TT, anime & comics, trading, gaming
-- 📬 **Reach me:** [tej.pawar04@gmail.com](mailto:tej.pawar04@gmail.com)
+- 📫 **Reach me:** [tej.pawar04@gmail.com](mailto:tej.pawar04@gmail.com)
 
-## 🧰 Tech Stack
+&lt;br&gt;
 
-<div align="center">
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                         EXPERIENCE                            --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+## 💼 Experience
 
-**Languages**
+### Junior SailPoint Developer @ **_VOIS**
+*Pune, India | [MONTH_YEAR] – Present*
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+- Working hands-on with **SailPoint IdentityIQ** in the **[RIO] team**, handling identity governance, access certifications, and day-to-day IAM operations.
+- Contributing to enterprise-scale access management solutions and IAM policy implementation.
+- Collaborating with cross-functional teams to design, deploy, and maintain secure identity workflows.
 
-**Frontend**
+&gt; *Total Experience: ~1 year (1 year at _VOIS, including 4 months dedicated to the SailPoint [RIO] team)*
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+&lt;br&gt;
 
-**Backend & Databases**
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                        TECH STACK                             --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+## 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**IAM & Security**
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<img src="https://img.shields.io/badge/SailPoint-0033A0?style=for-the-badge&logo=okta&logoColor=white" alt="SailPoint"/> <img src="https://img.shields.io/badge/IdentityIQ-16A085?style=for-the-badge&logo=springsecurity&logoColor=white" alt="SailPoint IdentityIQ"/> <img src="https://img.shields.io/badge/Access%20Governance-2C3E50?style=for-the-badge&logo=auth0&logoColor=white" alt="Access Governance"/>
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools**
+### IAM & Security
+![SailPoint](https://img.shields.io/badge/SailPoint-00A3E0?style=for-the-badge&logo=sailpoint&logoColor=white)
+![IdentityIQ](https://img.shields.io/badge/IdentityIQ-00A3E0?style=for-the-badge&logo=sailpoint&logoColor=white)
+![Access Governance](https://img.shields.io/badge/Access%20Governance-2C3E50?style=for-the-badge&logo=shield&logoColor=white)
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
+&lt;br&gt;
 
-## 📌 Featured Work
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                      FEATURED PROJECTS                        --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+## 📌 Featured Projects
 
-My best projects live in the **pinned repositories** just below this README — each one is a hands-on MERN build. The full showcase, with live demos, is on my portfolio:
+My best projects live in the pinned repositories just below this README — each one is a hands-on MERN build.
 
-<div align="center">
-  <a href="https://portfolio-tejas-bd3b5.web.app/">
-    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-5B42F3?style=for-the-badge" alt="portfolio"/>
-  </a>
-</div>
+&lt;p align="center"&gt;
+  &lt;a href="https://github.com/Tejas-040303/REPO_NAME_1"&gt;
+    &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=Tejas-040303&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" /&gt;
+  &lt;/a&gt;
+  &lt;a href="https://github.com/Tejas-040303/REPO_NAME_2"&gt;
+    &lt;img src="https://github-readme-stats.vercel.app/api/pin/?username=Tejas-040303&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
+&lt;p align="center"&gt;
+  &lt;a href="YOUR_PORTFOLIO_LINK"&gt;
+    &lt;img src="https://img.shields.io/badge/🌐_View_Full_Portfolio-7B61FF?style=for-the-badge" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
+
+&lt;br&gt;
+
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                       CERTIFICATIONS                          --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+## 🏆 Certifications
+
+&lt;p align="center"&gt;
+  &lt;img src="https://img.shields.io/badge/SailPoint-General-00A3E0?style=for-the-badge&logo=sailpoint&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/Generative%20AI-Certified-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" /&gt;
+&lt;/p&gt;
+
+&lt;details&gt;
+&lt;summary&gt;&lt;b&gt;📜 Foundational Certifications&lt;/b&gt;&lt;/summary&gt;
+&lt;br&gt;
+&lt;p&gt;
+  &lt;img src="https://img.shields.io/badge/Python-Foundational-3776AB?style=flat-square&logo=python&logoColor=white" /&gt;
+  &lt;img src="https://img.shields.io/badge/MERN%20Stack-Foundational-47A248?style=flat-square&logo=mongodb&logoColor=white" /&gt;
+&lt;/p&gt;
+&lt;/details&gt;
+
+&lt;br&gt;
+
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                    CURRENTLY EXPLORING                        --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+## 📚 Currently Exploring
+
+&lt;!-- Fill this section in yourself --&gt;
+- **Book:** 
+- **Concept:** 
+- **Side Project:** 
+
+&lt;br&gt;
+
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                      GITHUB ANALYTICS                         --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tejas-040303&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=5B42F3&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-040303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF" alt="top languages"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=Tejas-040303&theme=tokyonight&hide_border=true&background=0D1117&ring=5B42F3&fire=00C9FF&currStreakLabel=00C9FF" alt="contribution streak"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Tejas-040303&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-040303&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C9FF&line=5B42F3&point=00C9FF&area=true" width="95%" alt="contribution activity graph"/>
-</div>
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api?username=Tejas-040303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" /&gt;
+  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-040303&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" /&gt;
+&lt;/p&gt;
 
-### 🧊 Contributions in 3D
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas-040303&theme=tokyonight&hide_border=true" alt="GitHub Streak" /&gt;
+&lt;/p&gt;
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution graph"/>
-</div>
+&lt;!-- GitHub Trophies — uncomment if you want them, but they can be flaky --&gt;
+&lt;!--
+&lt;p align="center"&gt;
+  &lt;img src="https://github-profile-trophy.vercel.app/?username=Tejas-040303&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" /&gt;
+&lt;/p&gt;
+--&gt;
 
-### 🐍 Contribution Snake
+&lt;p align="center"&gt;
+  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=Tejas-040303&theme=tokyonight&hide_border=true" alt="Contribution Graph" /&gt;
+&lt;/p&gt;
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tejas-040303/Tejas-040303/output/github-contribution-grid-snake-dark.svg" width="95%" alt="contribution snake animation"/>
-</div>
+&lt;br&gt;
 
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                    CONTRIBUTION SNAKE                           --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+## 🐍 Contribution Snake
+
+&lt;picture&gt;
+  &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tejas-040303/Tejas-040303/output/github-contribution-grid-snake-dark.svg"&gt;
+  &lt;source media="prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tejas-040303/Tejas-040303/output/github-contribution-grid-snake.svg"&gt;
+  &lt;img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tejas-040303/Tejas-040303/output/github-contribution-grid-snake.svg"&gt;
+&lt;/picture&gt;
+
+&lt;br&gt;
+
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                        DEV QUOTE                              --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
 ## ✍️ Dev Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
-</div>
+&lt;p align="center"&gt;
+  &lt;img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" /&gt;
+&lt;/p&gt;
 
+&lt;br&gt;
+
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                       CONNECT WITH ME                         --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
 ## 🤝 Connect With Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/tejas-pawar-b63054253/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tej.pawar04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://portfolio-tejas-bd3b5.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-5B42F3?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
-  <br/><br/>
-  <i>Always happy to talk web dev, IAM, or a project idea — let's build something. 🚀</i>
-</div>
+&lt;p align="center"&gt;
+  &lt;a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"&gt;
+    &lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
+  &lt;/a&gt;
+  &lt;a href="mailto:tej.pawar04@gmail.com"&gt;
+    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
+  &lt;/a&gt;
+  &lt;a href="YOUR_PORTFOLIO_LINK"&gt;
+    &lt;img src="https://img.shields.io/badge/Portfolio-7B61FF?style=for-the-badge&logo=google-chrome&logoColor=white" /&gt;
+  &lt;/a&gt;
+&lt;/p&gt;
 
-<!-- ════════════════════════ FOOTER ════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:5B42F3,100:00C9FF&height=120&section=footer" width="100%" alt=""/>
+&lt;p align="center"&gt;
+  &lt;em&gt;Always happy to talk web dev, IAM, or a project idea — let's build something. 🚀&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;!--                         FOOTER WAVE                           --&gt;
+&lt;!-- ═══════════════════════════════════════════════════════════════ --&gt;
+&lt;p align="center"&gt;
+  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer Wave" /&gt;
+&lt;/p&gt;
