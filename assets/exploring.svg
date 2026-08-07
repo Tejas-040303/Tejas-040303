@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="212" viewBox="0 0 900 212" fill="none" role="img">
+  <style>
+    :root {
+      --panel:      rgba(255,255,255,0.58);
+      --panel-2:    rgba(255,255,255,0.34);
+      --edge:       rgba(255,255,255,0.95);
+      --edge-soft:  rgba(15,23,42,0.10);
+      --scrim:      rgba(13,17,23,0);
+      --txt:        #0f172a;
+      --muted:      #475569;
+      --faint:      #64748b;
+      --cyan:       #0e7490;
+      --violet:     #6d28d9;
+      --blue:       #1d4ed8;
+      --chip:       rgba(255,255,255,0.55);
+      --chip-edge:  rgba(15,23,42,0.12);
+      --rule:       rgba(15,23,42,0.10);
+      --orb-a:      #22d3ee;
+      --orb-b:      #a78bfa;
+      --orb-c:      #60a5fa;
+      --orb-op:     0.55;
+      --grain:      0.05;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --panel:      rgba(255,255,255,0.07);
+        --panel-2:    rgba(255,255,255,0.03);
+        --edge:       rgba(255,255,255,0.18);
+        --edge-soft:  rgba(255,255,255,0.06);
+        --scrim:      rgba(9,13,21,0.46);
+        --txt:        #e8eefc;
+        --muted:      #b3c2da;
+        --faint:      #91a4c2;
+        --cyan:       #7ee8fa;
+        --violet:     #b490ff;
+        --blue:       #60a5fa;
+        --chip:       rgba(255,255,255,0.05);
+        --chip-edge:  rgba(255,255,255,0.13);
+        --rule:       rgba(255,255,255,0.08);
+        --orb-a:      #22d3ee;
+        --orb-b:      #a78bfa;
+        --orb-c:      #3b82f6;
+        --orb-op:     0.40;
+        --grain:      0.07;
+      }
+    }
+    .scrim   { fill: var(--scrim); }
+    .panel   { fill: var(--panel);   stroke: var(--edge-soft); stroke-width: 1; }
+    .sheen   { fill: var(--panel-2); }
+    .rim     { fill: none; stroke: var(--edge); stroke-width: 1.1; }
+    .rule    { stroke: var(--rule);  stroke-width: 1; }
+    .chip    { fill: var(--chip);    stroke: var(--chip-edge); stroke-width: 1; }
+    .orb     { opacity: var(--orb-op); }
+    .oa      { fill: var(--orb-a); }
+    .ob      { fill: var(--orb-b); }
+    .oc      { fill: var(--orb-c); }
+    .grain   { opacity: var(--grain); }
+    text     { font-family: 'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif; }
+    .h1      { fill: var(--txt);    font-size: 46px; font-weight: 700; letter-spacing: -0.5px; }
+    .h2      { fill: var(--txt);    font-size: 19px; font-weight: 650; }
+    .title   { fill: var(--cyan);   font-size: 16px; font-weight: 650; letter-spacing: 1.6px; }
+    .lead    { fill: var(--violet); font-size: 15px; font-style: italic; }
+    .body    { fill: var(--muted);  font-size: 13.5px; }
+    .strong  { fill: var(--txt);    font-size: 13.5px; font-weight: 600; }
+    .meta    { fill: var(--cyan);   font-size: 13px; }
+    .small   { fill: var(--faint);  font-size: 11.5px; }
+    .tag     { fill: var(--muted);  font-size: 11.5px; }
+    .accent  { fill: var(--cyan); }
+    .kicker  { fill: var(--faint);  font-size: 12px; letter-spacing: 2.6px; }
+  </style>
+
+  <defs>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="30"/>
+    </filter>
+    <filter id="shadow" x="-25%" y="-45%" width="150%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#0b1020" flood-opacity="0.18"/>
+    </filter>
+    <filter id="noise" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" stitchTiles="stitch"/>
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
+    <linearGradient id="sheenGrad" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.32"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.02"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="pane">
+      <rect x="18" y="12" width="864" height="188" rx="24"/>
+    </clipPath>
+  </defs>
+  <g filter="url(#shadow)"><rect x="18" y="12" width="864" height="188" rx="24" fill="#94a3b8" fill-opacity="0.28"/></g>
+  <g class="orb" filter="url(#blur)" clip-path="url(#pane)">
+    <circle class="oa" cx="139" cy="76" r="134"><animateTransform attributeName="transform" type="translate" values="0 0; 30 -16; 0 0" dur="21s" begin="0s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/></circle>
+    <circle class="ob" cx="761" cy="136" r="122"><animateTransform attributeName="transform" type="translate" values="0 0; -26 18; 0 0" dur="26s" begin="-4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/></circle>
+    <circle class="oc" cx="450" cy="31" r="93"><animateTransform attributeName="transform" type="translate" values="0 0; 30 -16; 0 0" dur="31s" begin="-8s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.2 1;0.4 0 0.2 1"/></circle>
+    </g>
+    <rect class="scrim" x="18" y="12" width="864" height="188" rx="24"/>
+    <rect class="panel" x="18" y="12" width="864" height="188" rx="24"/>
+    <rect x="18" y="12" width="864" height="188" rx="24" fill="url(#sheenGrad)"/>
+    <rect class="grain" x="18" y="12" width="864" height="188" rx="24" filter="url(#noise)"/>
+    <rect class="rim" x="18" y="12" width="864" height="188" rx="24"/>
+  <text class="title" x="46" y="54">CURRENTLY EXPLORING</text>
+  <line class="rule" x1="46" y1="70" x2="854" y2="70"/>
+  <text class="meta" x="46" y="108">▸</text>
+  <text class="strong" x="66" y="108">Deep-diving</text>
+  <text class="body" x="160" y="108">SailPoint IdentityIQ internals — workflows, rules, connectors</text>
+  <text class="meta" x="46" y="140">▸</text>
+  <text class="strong" x="66" y="140">Studying</text>
+  <text class="body" x="160" y="140">Enterprise IAM architecture and access-governance patterns</text>
+  <text class="meta" x="46" y="172">▸</text>
+  <text class="strong" x="66" y="172">Shipping</text>
+  <text class="body" x="160" y="172">MERN side projects, plus daily DSA in Java and Python</text>
+
+</svg>
